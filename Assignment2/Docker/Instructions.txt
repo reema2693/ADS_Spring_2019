@@ -1,0 +1,7 @@
+for an another user to run your application, only the Docker package needs to be installed. To download an image, generate a container on the user system, and run the container an image from DockerHub, the “run” command is used. The generic format of the “run” command uses “-p systemPort:containerPort” to map ports and “username/repository” to pull the image. Note, the container port and an open system port must be known to execute the “run” command and run the application in the container.
+
+Upon the execution of the “run” command, the system first looks locally for the repository. When the the repository is not founds locally, it is then searched for externally on DockerHub. The system then pulls the image and required environment from DockerHub and creates the container. Finally, the application is run from the container. Note, the address given “http://0.0.0.0:5000/” is the container’s exposed port. To see the file locally on the users system, they will need to replace their exposed port, systemPort, to the address.
+
+docker pull sharavan27/assignment2_part1
+docker pull sharavan27/assignment2
+docker pull sharavan27/ads_assignment2

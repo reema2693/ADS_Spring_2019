@@ -44,8 +44,8 @@ Step 3: Execute Prediction models to calculate the MAPE value
 - Task_3_Random_Forest.ipnyb
 
 Step 4: Perform hyperparameter optimization by executing below files
--Execute HPT_Regression.ipynb --> Generating Score for Training and Testing data for L1,L2 and Elasticnet regularization 
--Execute Task_4_HPT_NN.ipynb
+- Execute HPT_Regression.ipynb -->Generating Score for Training and Testing data for L1,L2 and Elasticnet regularization 
+- Execute Task_4_HPT_NN.ipynb
 
 Step 5: Execute AutoML model
 - Task_4_AutoML_TPOT.ipynb

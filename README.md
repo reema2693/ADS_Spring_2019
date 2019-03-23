@@ -50,6 +50,7 @@ Step 4: Perform hyperparameter optimization by executing below files
 Step 5: Execute AutoML model
 - Task_4_AutoML_TPOT.ipynb
 - Task_4_AutSKLearn.ipynb
+- Task_4_H2O.ipynb
 
 
 Step 6: Execute Task_5_Analysis.ipynb

@@ -23,7 +23,7 @@ def getResponse(cntry, noOfSongs ):
     base_url = 'https://api.musixmatch.com/ws/1.1/'
 
     #apikey
-    api_key = '&apikey=5d05ee18c704d1bfa04ec7643f980e04'
+    api_key = '&apikey='
 
     #format url to form the json response
     format_url = '?format=json&callback=callback'

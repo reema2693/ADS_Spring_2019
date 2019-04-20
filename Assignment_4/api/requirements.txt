@@ -1,0 +1,9 @@
+watson-developer-cloud==2.8.1
+jsonref==0.2
+jsonschema==2.6.0
+requests==2.21.0
+Flask==1.0.2
+Flask-Cors==3.0.7
+simplejson==3.16.0
+regex
+gunicorn

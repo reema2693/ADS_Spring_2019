@@ -1,0 +1,1 @@
+web: gunicorn Tone_Analyzer_Final:app

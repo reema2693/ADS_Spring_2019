@@ -1,4 +1,5 @@
 Fake News Detection
+********************
 
 Project Proposal
 -------------------

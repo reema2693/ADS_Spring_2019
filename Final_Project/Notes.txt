@@ -46,4 +46,6 @@ https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk
 
 April 20
 *********************
-
+Data Cleaning : Finalizing the csvs
+Implemented feature engineering by adding labels to the dataset
+Performed Countvectorization and TfIdfVectorization

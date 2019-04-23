@@ -23,6 +23,7 @@ The dataset is shared on drive refer link below
 Link : https://drive.google.com/drive/folders/1JOdt9Onh6szcAKvnCkilARc-uh4EUeyv?usp=sharing
 
 Data folder has below mentioned csvs :
+
 loan.csv
 LCDataDictionary.xlsx (dictionary for understanding each columns)
 cleaned_data

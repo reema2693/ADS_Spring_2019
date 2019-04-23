@@ -1,4 +1,5 @@
-# Course : INFO 6105 Data Science Engineering Methods and Tools
+# Course : 
+# INFO 6105 Data Science Engineering Methods and Tools
 
 The repository consists of case studies and final project performed under this course
 

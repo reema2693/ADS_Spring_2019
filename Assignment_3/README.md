@@ -7,14 +7,14 @@ https://codelabs-preview.appspot.com/?file_id=1Vrbd5cK9MQdbUIx4e9UqRwFBJW385MXLq
 
 ### Before execution install below libraries:
 
-numpy
-pandas
-featuretools
-matplotlib
-TPOT
-plotly
-h2o
-auto-sklearn
+•	numpy
+•	pandas
+•	featuretools
+•	matplotlib
+•	TPOT
+•	plotly
+•	h2o
+•	auto-sklearn
 
 ### Dataset
 
@@ -24,12 +24,13 @@ Link : https://drive.google.com/drive/folders/1JOdt9Onh6szcAKvnCkilARc-uh4EUeyv?
 
 Data folder has below mentioned csvs :
 
-loan.csv
-LCDataDictionary.xlsx (dictionary for understanding each columns)
-cleaned_data
-FT_data_final
-FT_data
-MF_Data
+•	loan.csv
+•	LCDataDictionary.xlsx (dictionary for understanding each columns)
+•	cleaned_data
+•	FT_data_final
+•	FT_data
+•	MF_Data
+
 Note: All the output files (csv) are under Data Folder
 
 ### Instructions to execute files :

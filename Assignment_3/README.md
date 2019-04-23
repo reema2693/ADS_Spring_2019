@@ -1,4 +1,4 @@
-#
+# Building a machine learning model using the Lending Club Dataset
 
 ### Claat
 

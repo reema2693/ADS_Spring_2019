@@ -34,7 +34,9 @@ Note: All the output files (csv) are under Data Folder
 ### Instructions to execute files :
 Step 1: Execute Task_2_Data_Cleaning.ipynb This will generate output cleaned_data.csv
 
-Step 2: Execute Task_2_Feature_Eng_Feature_Tools.ipynb and Task_2_Manual_Feature_Eng.ipynb Generate output file FT_data.csv and FT_data_final.csv for feature end with feature tools. Refer FT_data_final.csv Generate output file MF_Data.csv
+Step 2: Execute Task_2_Feature_Eng_Feature_Tools.ipynb and Task_2_Manual_Feature_Eng.ipynb 
+Refer file FT_data.csv and FT_data_final.csv for feature engineering with feature tools. 
+Refer FT_data_final.csv and MF_Data.csv file for manual feature engineering.
 
 Step 3: Execute Prediction models to calculate the MAPE value
 

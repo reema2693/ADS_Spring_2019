@@ -9,12 +9,6 @@ Code : Consists of code files for executing every requirement as per the case st
 
 Data : The dataset populated from each execution
 
-Documents:
-
--- Case study
-
--- PDFs used for populating the fintech words
-
 Report: A pdf version of CLAAT report
 
 

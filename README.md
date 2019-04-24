@@ -5,6 +5,8 @@ The repository consists of case studies and final project performed under this c
 
 ### Assignment 1:
 ******************
+Goal : To conduct a study on the job openings in the top US Banks in the United States and analyze trends in the industry particularly in the area of Fintech
+
 Code : Consists of code files for executing every requirement as per the case study
 
 Data : The dataset populated from each execution

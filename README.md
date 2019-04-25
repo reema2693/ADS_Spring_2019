@@ -16,15 +16,39 @@ Report: A pdf version of CLAAT report
 
 ### Assignment 2:
 **********************
+Code : Consists of code files for executing every requirement as per the case study
+
+Data : The dataset populated from each execution
+
+Report: A pdf version of CLAAT report
+
 
 ### Assignment 3:
 ********************
+Code : Consists of code files for executing every requirement as per the case study
+
+Data : The dataset populated from each execution
+
+Report: A pdf version of CLAAT report
 
 ### Assignment 4:
 ********************
+Code : Consists of code files for executing every requirement as per the case study
+
+Data : The dataset populated from each execution
+
+Report: A pdf version of CLAAT report
 
 ### Final Project:
 ********************
+Code : Consists of code files for executing every requirement as per the case study
 
-### Presentation:
-********************
+Data : The dataset populated from each execution
+
+Report: A pdf version of CLAAT report
+
+### Presentation: Machine Learning Interpretability
+***************************************************
+PPT
+Youtube Link of presentation
+

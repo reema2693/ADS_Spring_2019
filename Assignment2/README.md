@@ -29,11 +29,12 @@ Formed clusters of different banking sectors and grouped some fintech words unde
 #### Step 3 (Part 3):
 
 Classifier_Final_S3.ipynb - Performed feature engineering to add 3 features 
-Focused Area pertaining to the technology
 
-Banking Sector (Cluster)
+•	Focused Area pertaining to the technology
 
-Job Category (Fintech/Non-Fintech)
+•	Banking Sector (Cluster)
+
+•	Job Category (Fintech/Non-Fintech)
 
 #### Step 4 (Part4):
 Performed detailed analysis and included demographics in the claat document.
